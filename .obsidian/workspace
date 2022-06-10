@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "383a24e93c97167f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2778e2f88abcdc33",
+        "type": "split",
+        "children": [
+          {
+            "id": "fecad8aa2e56fa64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            },
+            "group": "040b12e1aaa7cb4f"
+          },
+          {
+            "id": "e2809efab233071a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            },
+            "group": "040b12e1aaa7cb4f"
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "3e90738f9d1a485e",
+        "type": "split",
+        "children": [
+          {
+            "id": "9977108479161b82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agile Practices/Definitions of Agile.md.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7f47a11bdeb0e68c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19521bf23f833715",
+    "type": "split",
+    "children": [
+      {
+        "id": "73ef2cd0ec71cc36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b5460acaebbab47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "77d2d02ad1e149c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0032570fc6136cd3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c76f1e19a75e3c6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "11de794f35a5cbe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a435cf028c059334",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4f9c334619c08ad8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "340f86f29e5c4023",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "e7ea519eeddee768",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a2bcffd410b388a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "fecad8aa2e56fa64",
+  "lastOpenFiles": [
+    "README.md.md",
+    "Agile Practices/_index_.md",
+    "Agile Practices/assets/_index_.md",
+    "Agile Practices/Agile Defined Simply.md.md",
+    "Agile Practices/Definitions of Agile.md.md",
+    "> [!Quote] Defininitions of Agile.md"
+  ]
+}

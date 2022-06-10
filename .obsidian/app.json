@@ -1,0 +1,12 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./assets/attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Agile Practices/assets/unsorted",
+  "newLinkFormat": "absolute"
+}
